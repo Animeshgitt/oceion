@@ -6,7 +6,7 @@ import { useState } from 'react';
 // Styling: Tailwind CSS — standard classes only
 // Framework: React / Next.js
 // ============================================================
-import Modal from '@/app/_components/Modal';
+import Modal from '../../_components/Modal';;
 const PLANS = [
   {
     tag: 'Foundation',
