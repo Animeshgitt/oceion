@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import Modal from '@/app/_components/Modal';
+import Modal from '../../_components/Modal';
 
 const TABS = ['ALL SERVICES', 'PRIVACY', 'SECURITY', 'LEGAL & REGULATORY', 'ADVISORY & DPO', 'TECH & EMERGING'];
 
